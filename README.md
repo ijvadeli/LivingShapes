@@ -1,20 +1,24 @@
 # LivingShapes
+
 This was a project for school called Skills.
 
-It's a website build in 135 minutes max time, with your own choice of tech-stack
+It's a website build in 135 minutes max time, with your own choice of tech-stack. (No AI use allowed either)
 
-I chose Vite with React + Typescript and Tailwindcss as my tech-stack
+I chose Vite with React + Typescript and Tailwindcss as my tech-stack.
 
-The website is fully optimized, giving a perfect score in google lighthouse on deployment at vercel: [https://livingshapes.vercel.app/](https://livingshapes.vercel.app/)
-
-I wasn't able to fully complete the excercise because of given time but here are the requirements in Dutch:
+I wasn't able to fully complete the excercise because of given time, but here are the requirements in Dutch:
 [[PDF](A-opdracht-student.pdf)]
 
-And the mockup:
+Mockup:
 
-![Simple mockup](./very-simple-mockup.jpg "Mockup")
+![Simple mockup](./very-simple-mockup.jpg "Simple mockup")
+
+The website is also fully optimized, giving a perfect score on google lighthouse with deployment on vercel: [https://livingshapes.vercel.app/](https://livingshapes.vercel.app/)
+
+![Google lighthouse performance score](./Performance.png "Google lighthouse performance score")
 
 ## Dutch README
+
 Om deze website zelf te draaien zijn er een paar stappen die je moet volgen
 - Unzip de folder ergens op je computer
 - Je hebt pnpm nodig om dit project te draaien, als je dit niet hebt kan je dit doen via ``npm install -g pnpm`` (Hiervoor heb je wel Node.js nodig) Je kan pnpm ook via ``winget install -e --id pnpm.pnpm`` installeren in PowerShell of Command Prompt.
