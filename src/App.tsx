@@ -18,9 +18,9 @@ export default function App() {
         
         {/* Links */}
         <div className="inline-flex flex-col text-xl">
-          <a href="#">contact</a>
-          <a href="#">information</a>
-          <a href="#">copy</a>
+          <a href="#" className="hover:text-blue-700">contact</a>
+          <a href="#" className="hover:text-blue-700">information</a>
+          <a href="#" className="hover:text-blue-700">copy</a>
         </div>
       </div>
 
