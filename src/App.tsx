@@ -24,7 +24,7 @@ export default function App() {
         </div>
       </div>
 
-      {/* Tweede section met 4 projects in een grid met padding */}
+      {/* Tweede section met 4 projecten in een grid met margin */}
       <div className="col-span-4 ml-12 mt-12">
         <Projects/>
       </div>
