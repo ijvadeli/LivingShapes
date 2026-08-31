@@ -7,3 +7,5 @@ Om deze website zelf te draaien zijn er een paar stappen die je moet volgen
 - Run de command ``pnpm install`` om de node_modules te installeren en vervolgens ``pnpm run build`` en ```pnpm run preview`` om een live versie van de website te bekijken.
 - Open de localhost link in je browser (waarschijnlijk ``localhost:4173``)
 - Je kan op chrome ook rechtermuisknop -> inspect -> lighthouse -> analyze page load om de optimization te showcasen
+
+## De website is ook te bekijken op de live deployment via vercel [https://livingshapes.vercel.app/](https://livingshapes.vercel.app/)
