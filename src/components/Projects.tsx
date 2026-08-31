@@ -6,6 +6,10 @@ export default function Projects() {
   return (
     <div className="w-full h-full grid grid-cols-2 grid-rows-2 gap-6">
       <ProjectCard
+        primaryImage="./thehive-inside.jpg"
+        secondaryImage="./thehive-outside.jpg"
+      />
+      <ProjectCard
         primaryImage="./bfly-inside.jpg"
         secondaryImage="./bfly-outside.jpg"
       />
@@ -16,10 +20,6 @@ export default function Projects() {
       <ProjectCard
         primaryImage="./lcamou-inside.jpg"
         secondaryImage="./lcamou-outside.jpg"
-      />
-      <ProjectCard
-        primaryImage="./thehive-inside.jpg"
-        secondaryImage="./thehive-outside.jpg"
       />
     </div>
   );
