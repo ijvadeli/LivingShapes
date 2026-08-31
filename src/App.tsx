@@ -9,8 +9,8 @@ export default function App() {
       <div className="col-span-1 inline-flex flex-col">
 
         {/* Avatar */}
-        <div className="w-full h-max bg-black">
-          <img src={avatar} className="p-2"/>
+        <div className="w-full h-max bg-linear-to-br from-gray-950 to-gray-500">
+          <img src={avatar} className="p-2" alt="LivingShapes Logo"/>
         </div>
 
         {/* Automatische spacing tussen sections */}
