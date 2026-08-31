@@ -7,19 +7,19 @@ export default function Projects() {
     <div className="w-full h-full grid grid-cols-2 grid-rows-2 gap-6">
       <ProjectCard
         primaryImage="./bfly-inside.jpg"
-        secondaryImage="./bfly.outside.jpg"
+        secondaryImage="./bfly-outside.jpg"
       />
       <ProjectCard
         primaryImage="./bonsai-inside.jpg"
-        secondaryImage="./bonsai.outside.jpg"
+        secondaryImage="./bonsai-outside.jpg"
       />
       <ProjectCard
         primaryImage="./lcamou-inside.jpg"
-        secondaryImage="./lcamou.outside.jpg"
+        secondaryImage="./lcamou-outside.jpg"
       />
       <ProjectCard
         primaryImage="./thehive-inside.jpg"
-        secondaryImage="./thehive.outside.jpg"
+        secondaryImage="./thehive-outside.jpg"
       />
     </div>
   );
